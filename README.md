@@ -1,7 +1,9 @@
+### Oh, My name is Edson and I'm glad with your visit! 😁
 ### Opa, me chamo Edson e fico feliz por sua visita! 😁
 
-- 📚 Estudante de Ciência da Computação
-- 💻 Desenvolvedor Java | Designer Gráfico Freelancer
+- Brazilian 
+- 📚 Studying Computer Science
+- 💻 Java Development | Freelance Graphic Designer
 - 📩 Email: edsonaraujodesouzaneto@gmail.com
 
 <div style="display: inline_block"><br>
