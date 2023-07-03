@@ -1,4 +1,4 @@
-### Oh, My name is Edson and I'm glad with your visit! 😁
+### Hey, My name is Edson and I'm glad with your visit! 😁
 
 - Brazilian 
 - 📚 Studying Computer Science
