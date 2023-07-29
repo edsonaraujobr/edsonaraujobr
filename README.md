@@ -1,6 +1,6 @@
 ### Hey, my name is Edson and I'm glad with your visit! 😁
 
-- Brazilian 
+- 🔰 Brazilian 
 - 📚 Studying Computer Science
 - 💻 Java Development | Freelance Graphic Designer
 - 📩 Email: edsonaraujodesouzaneto@gmail.com
