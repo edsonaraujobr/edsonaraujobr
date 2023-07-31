@@ -2,7 +2,7 @@
 
 - 🔰 Brazilian 
 - 📚 Studying Computer Science
-- 💻 Java Development | Freelance Graphic Designer
+- 💻 Programmer | Freelance Graphic Designer | Video editor
 - 📩 Email: edsonaraujodesouzaneto@gmail.com
 
 <div style="display: inline_block"><br>
