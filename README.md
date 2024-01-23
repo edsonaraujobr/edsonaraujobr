@@ -5,7 +5,7 @@
 - 💻 Software Developer
 - 📩 Email: edsonaraujodesouzaneto@gmail.com
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonaraujoneto&show_icons=true&theme=transparent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonaraujoneto&layout=compact&show_icons=true&theme=transparent">
 </div>
