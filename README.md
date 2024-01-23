@@ -5,6 +5,8 @@
 - 💻 Software Developer
 - 📩 Email: edsonaraujodesouzaneto@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonaraujoneto)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Principais tecnologias
 
 <div style="display: inline_block"><br>
