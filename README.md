@@ -2,7 +2,7 @@
 
 - 🔰 Bahia, Brasil.
 - 📚 Estudante de Ciência da Computação
-- 💻 Software Developer
+- 💻 Java Developer | React, JavaScript and TailwindCSS
 - 📩 Email: edsonaraujodesouzaneto@gmail.com
 
 <div>
