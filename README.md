@@ -1,5 +1,5 @@
 # Hello, meu nome é *${Edson}* e esse é meu perfil no GitHub 😁
-![](https://komarev.com/ghpvc/?username=edsonaraujoneto&color=brightgreen)
+
 - 🔰 Bahia, Brasil.
 - 📚 Estudante de Ciência da Computação (4º semestre)
 - 📩 Email: edsonaraujodesouzaneto@gmail.com 
