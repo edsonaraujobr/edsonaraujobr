@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonaraujoneto&layout=compact&show_icons=true&theme=transparent">
 </div>
 
-
+<br>
 Confira abaixo algumas das tecnologias que utilizo ou já utilizei.
 
 ## Tecnologias && Ferramentas
