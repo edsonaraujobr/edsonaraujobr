@@ -1,7 +1,7 @@
-# Hello, meu nome é *${Edson}* e esse é meu perfil no GitHub 😁
+# Olá, meu nome é Edson e esse é meu perfil no GitHub 
 
 - 🔰 Bahia, Brasil.
-- 📚 Estudante de Ciência da Computação (4º semestre)
+- 📚 Estudante de Ciência da Computação 
 - 📩 Email: edsonaraujodesouzaneto@gmail.com 
 
 <div>
