@@ -1,4 +1,4 @@
-# Olá, meu nome é Edson e esse é meu perfil no GitHub 
+# Bem vindo ao meu perfil no GitHub! 
 
 - 🔰 Bahia, Brasil.
 - 📚 Estudante de Ciência da Computação 
