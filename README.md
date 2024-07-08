@@ -12,7 +12,7 @@
 <br>
 Check out some of the technologies we use or have already used below.
 
-## Tecnologias && Ferramentas
+## Technologies && Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,8 +29,7 @@ Check out some of the technologies we use or have already used below.
           
 </div>
 
-## Sistemas Operacionais
-
+## Operational System
 <div style="display: inline_block"><br>
   
   <img align="center" alt="windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
