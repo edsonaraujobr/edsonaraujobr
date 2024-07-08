@@ -1,15 +1,16 @@
-# Bem vindo ao meu perfil no GitHub! 
+# Welcome to my GitHub Profile! 
 
-- 🔰 Bahia, Brasil.
-- 📚 Estudante de Ciência da Computação 
+- 🔰 FullStack Developer.
+- 📚 Computer Science Student
 - 📩 Email: edsonaraujodesouzaneto@gmail.com 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonaraujobr&show_icons=true&theme=transparent">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonaraujobr&layout=compact&show_icons=true&theme=transparent">
 </div>
 
 <br>
-Confira abaixo algumas das tecnologias que utilizo ou já utilizei.
+Check out some of the technologies we use or have already used below.
 
 ## Tecnologias && Ferramentas
 
