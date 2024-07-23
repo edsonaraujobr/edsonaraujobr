@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 
 
-- 🔰 FullStack Developer.
+- 🔰 Full Stack Developer.
 - 📚 Computer Science Student
 - 📩 Email: edsonaraujodesouzaneto@gmail.com 
 
