@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 
 
-- 🔰 Full Stack Developer.
+- 🔰 Desenvolvedor back-end
 - 📚 Computer Science Student
 - 📩 Email: edsonaraujodesouzaneto@gmail.com 
 
@@ -15,6 +15,9 @@ Check out some of the technologies we use or have already used below.
 ## Technologies && Tools
 
 <div style="display: inline_block"><br>
+  
+  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
