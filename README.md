@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 
 
-- 🔰 Desenvolvedor back-end
+- 🔰 Back-end developer
 - 📚 Computer Science Student
 - 📩 Email: edsonaraujodesouzaneto@gmail.com 
 
