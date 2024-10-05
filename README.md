@@ -2,7 +2,8 @@
 
 - 🔰 Back-end developer
 - 📚 Computer Science Student
-- 📩 Email: edsonaraujodesouzaneto@gmail.com 
+- 📩 Email: edsonaraujodesouzaneto@gmail.com
+- 📩 Linkedin: [Meu perfil](https://www.linkedin.com/in/edsonaraujobr)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonaraujobr&show_icons=true&theme=transparent">
